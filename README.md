@@ -34,9 +34,6 @@ python student_data_analysis.py
 - Prints statistical insights and pivot tables.
 - Generates visualizations for grade distribution, GPA by major, age distribution, and GPA by grade.
 
-## License
-This project is open-source and available under the MIT License.
-
 ## Contributing
 Feel free to contribute by submitting issues or pull requests!
 
